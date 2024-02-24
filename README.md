@@ -1,4 +1,5 @@
-[![Kyle Johnson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylejohnsonkj&show_icons=true&bg_color=00000000&hide_border=true&hide=contribs&rank_icon=github&custom_title=Hey%20there%20👋%20&nbsp;Welcome%20to%20my%20GitHub!)](https://github.com/anuraghazra/github-readme-stats)
+[![Kyle Johnson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylejohnsonkj&show_icons=true&bg_color=00000000&hide_border=true&hide=contribs&rank_icon=github&custom_title=Hey%20there%20👋%20&nbsp;Welcome%20to%20my%20GitHub!&text_color=e6edf3)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Kyle Johnson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylejohnsonkj&show_icons=true&bg_color=00000000&hide_border=true&hide=contribs&rank_icon=github&custom_title=Hey%20there%20👋%20&nbsp;Welcome%20to%20my%20GitHub!)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <!--
 **kylejohnsonkj/kylejohnsonkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
